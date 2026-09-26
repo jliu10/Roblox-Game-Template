@@ -8,7 +8,7 @@ version = "3.1.4"
 dependencies = []
 
 [[package]]
-name = "jinsen/roblox-game-template"
+name = "your-computer-username/roblox-game-template"
 version = "0.1.0"
 dependencies = [["Cryptography", "daily3014/cryptography@3.1.4"], ["DataserviceTyped", "leifstout/dataservicetyped@1.0.5"], ["React", "jsdotlua/react@17.2.1"], ["ReactRoblox", "jsdotlua/react-roblox@17.2.1"]]
 
